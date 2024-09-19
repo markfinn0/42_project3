@@ -1,0 +1,80 @@
+About the job
+ADP is hiring a Senior Mobile Developer.
+
+Are you empathetic to client needs and inspired by transformation and impacting the lives of millions of people every day?
+Are you looking to join a dynamic, inclusive team environment with a culture of collaboration and belonging? 
+
+Well, this may be the role for you. Ready to design what's next?
+
+In this role, you will work within a scrum team to bring the designs and ideas to life for new or improved web applications. This work will support a mix of internal and external clients, and you will be working on projects currently in production.
+
+You will start your day on a scrum call to prioritize and track work. Within the team you work on, you will choose user stories to work within a sprint cycle. You will spend most of your day developing and testing your code. Every three weeks, you will be involved in the release activities.
+
+To thrive in this development career, you'll need to have solid knowledge in Javascript and have a firm grasp on any frameworks (Angular, or Stencil for frontend). You'll need to be familiar with mobile hybrid development (Flutter), and/or native development (iOS/Swift, Android/Kotlin). Like our best developers, you are an enthusiastic creator eager to learn and take on stretch assignments. You strive to learn new technologies and find ways to incorporate what you learn into building your products.
+
+As a Senior Developer, you will work closely with your team to lead and guide projects to success. You'll have a hands-on role designing, developing, debugging, and deploying software solutions where you can leverage your expertise with code complexities. You'll also serve as a mentor to the junior developers. In the senior role, you will balance the assigning of user stories through prioritization and consideration of the technical interests of each developer on the team. As part of our team, you'll find exciting challenges, get opportunities to grow your career, and develop solid friendships as we design what's next for ADP and the industry. Pace should not scare you. We still find time for a healthy dose of fun.
+
+Like what you see? Apply now!
+
+Learn More About ADP At Tech.adp.com/careers
+
+A little about ADP: We are a global leader in HR technology, offering the latest AI and machine learning-enhanced payroll, tax, HR, benefits, and much more. We believe our people make all the difference in cultivating an inclusive, down-to-earth culture that welcomes ideas, encourages innovation, and values belonging. ADP has a deep commitment to diversity, equity, and inclusion as a global Best Places to Work, DiversityInc® Top 50 Company, Best CEO and company for women, LGBTQ+, multicultural talent, and more. Learn more about ADP's commitment on our YouTube channel: http://adp.careers/DEI_Videos
+
+What You'll Do
+
+Here's what you can expect on a typical day: 
+
+ Agile. You'll start each day with a scrum, working in a team to understand responsibilities, identify issues, and communicate coding priorities while choosing user stories to complete. You will also participate in other agile ceremonies, including scheduled sprint demos, and be ready to present your work.
+Development. Working in three-week sprints, you must keep up with timelines and coding standards. Most of your daily schedule will be software development, but you will also test your code before submitting it to QA for final testing. You won't just focus on development in this role. You will also be responsible for testing and deployment. 
+Continuous Learning: You will attend "lunch and learn" sessions to actively collaborate with other developers to share ideas or show what you've learned. An eagerness to learn will help you keep up with ever-changing technologies and maintain the ability to create the best tools for our clients. 
+ Support: You're working on products currently in use. Those who report to you will act as a point of contact for one day/week, supporting your clients for any urgent issues requiring resolution. You may also have this responsibility. If so, you'll start those days with your regular work activity but will have to switch gears to a support role as needed throughout your assigned support day. 
+
+To Succeed In This Role
+
+We are looking for a seasoned developer with strong experience in:
+
+Mobile development experience in hybrid applications (Flutter) or native (iOS/Swift, Android/Kotlin).
+Javascript/Typescript.
+Frontend frameworks, such as Angular, or Stencil.
+Design systems.
+MIcrofrontend creation.
+
+Would Be Nice To Have
+
+Experience with Continuos Integration and Continuos Delivery (CI/CD) pipelines.
+Proficiency with version control systems such as Git.
+Familiarity with Agile methodologies and practices.
+Experience with RESTful API design and development.
+Understanding of automated testing frameworks and tools (e.g. Jest, Mocha)
+Understanding of backend technologies and frameworks.
+AWS experience in general - Lambda, certifications..
+
+How You’ll Stand Out
+
+You have advanced communication skills in English (both verbal and written).
+You’re eager to learn new skills and willing to navigate through all the application’s environment.
+You like to study new technologies and put this knowledge into action.
+You enjoy context switching, working in new areas, and building reusable patterns to help other developers leverage.
+You thrive in spreading knowledge with the team and other peers.
+
+You'll Love Working Here Because You Can
+
+Have courageous team collaboration. Courage comes from how associates are willing to have difficult conversations, speak up, be an owner, and challenge one another's ideas to find the best solution.
+Deliver at epic scale. We deliver real user outcomes using strong judgment and good instincts. We're obsessed with the art of achieving simplicity with a focus on client happiness and productivity.
+Be surrounded by curious learners. We align ourselves with other smart people in an environment where we grow and elevate one another to the next level. We encourage our associates to listen, stay agile, and learn from mistakes.
+Act like an owner & doer. Mission-driven and committed to leading change, you will be encouraged to take on any challenge and solve complex problems. No tasks are beneath or too great for us. We are hands-on and willing to master our craft.
+Give back to others. Always do the right thing for our clients and our community and humbly give back to the community where we live and work. Support our associates in times of need through ADP's Philanthropic Foundation.
+Join a company committed to equality and equity. Our goal is to impact lasting change through our actions.
+
+What are you waiting for? Apply today!
+
+Find out why people come to ADP and why they stay: https://youtu.be/ODb8lxBrxrY
+
+(ADA version: https://youtu.be/IQjUCA8SOoA )
+
+O modelo de trabalho adotado pela ADP é office-based/presencial, com a possibilidade de trabalho em home-office por até duas vezes na semana.
+Considerando que as atividades desempenhadas pelos ocupantes deste cargo envolvem acesso a informações altamente confidenciais e sensíveis de clientes da ADP e de seus respectivos empregados, a ADP reserva-se o direito de conduzir checagem de histórico, de tempos em tempos, conforme autoriza o Incidente de Recurso de Revista Repetitivo nº 01 do Tribunal Superior do Trabalho, mediante consentimento do candidato/trabalhador.
+
+Diversity, Equity, Inclusion & Equal Employment Opportunity at ADP: ADP is committed to an inclusive, diverse and equitable workplace, and is further committed to providing equal employment opportunities regardless of any protected characteristic including: race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, protected veteran status or disability. Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.
+
+Ethics at ADP: ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
